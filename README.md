@@ -12,6 +12,7 @@ In order to learn Real Time Programming, there is some knowledge we need to lear
 - **RESTful API** is an interface that two computer systems use to exchange information securely over the internet.
 - In this course, we will learn about **Distributed computing** (the method of making multiple computers work together to solve a common problem). Example why does some large software like Google and GitHub won't down? This is because they spend much money to purchase many machine that backup all the data, so when main machine is down, other machine act as backup to provide information. **Apache Hadoop** enable to help us understand parallel programming and concurrency.
 - JPS stands for JAVA PROCESS STATUS (open cmd and key in jps then u can know the status).
+  ![alt text](src/DistributeComputing.png)
 
 Progress/Caution when learning Real Time Programming
 -
