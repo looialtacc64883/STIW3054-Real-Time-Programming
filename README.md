@@ -11,7 +11,7 @@ In order to learn Real Time Programming, there is some knowledge we need to lear
 - As in lecture class on 15 December 2023, the lecturer say that SDLC such as waterfall, agile and more is just basic stuff. Most IT industry using **DevOps Methodology (integrates and automates)**. Example, a practicum student works in a bank, and she save the project of company in the Google Drive, the system will detect and inform alert that the project of company is not secure any more as what she did. [DevOps info](https://en.wikipedia.org/wiki/DevOps)
 - **RESTful API** is an interface that two computer systems use to exchange information securely over the internet.
 - In this course, we will learn about **Distributed computing** (the method of making multiple computers work together to solve a common problem). Example why does some large software like Google and GitHub won't down? This is because they spend much money to purchase many machine that backup all the data, so when main machine is down, other machine act as backup to provide information. **Apache Hadoop** enable to help us understand parallel programming and concurrency.
-- JPS stands for JAVA PROCESS STATUS (open cmd and key in jps then u can know the status).
+- **JPS** stands for **JAVA PROCESS STATUS** (open cmd and key in jps then u can know the status).
   ![alt text](src/DistributeComputing.png)
 
 Progress/Caution when learning Real Time Programming
